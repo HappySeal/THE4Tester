@@ -1,6 +1,6 @@
 # THE4Tester
  Tester for the Fourth Take Home Exam of the CENG111 class
- ## How to run this badbod?????
+ ## How to run this badboy?????
  Just run zie tester.py and let it do its magik
  
  ## mY gRaDe iS sO lOw yOr tEstEr iS bRokE ?!
