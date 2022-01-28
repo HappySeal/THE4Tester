@@ -12,8 +12,16 @@ with open("cases.txt", 'r') as c:
         t += 1
         l = l.strip('\n').split('|')
         result = the4.inheritance(Descriptions + [l[0]])
-        if result == eval(l[1]):
-            v += 1
+        result.sort(key=lambda x: x[0])
+        expResult = eval(l[1])
+        expResult.sort(key=lambda x: x[0])
+        if len(result) == len(expResult):
+            for r in zip(result,expResult):
+                if abs(r[0][1] - r[1][1]) > 10**-8:
+                    print(r)
+                    break
+            else:
+                v += 1
         else:
-            print(result)
+            print(result,expResult)
     print(f"All cases tested. \n{v}/{t} is correct")
