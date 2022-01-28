@@ -23,5 +23,7 @@ with open("cases.txt", 'r') as c:
             else:
                 v += 1
         else:
-            print(result,expResult)
+            print("-"*50)
+            print("Resulting Value \t Expected Value")
+            print(result,"\t",expResult)
     print(f"All cases tested. \n{v}/{t} is correct")
