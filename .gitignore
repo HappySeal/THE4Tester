@@ -1,3 +1,5 @@
+.gitignore
+.gitattributes
 the4.py
 treeGen.py
 female*
