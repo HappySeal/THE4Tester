@@ -1,5 +1,5 @@
 # THE4Tester
-![alt text](https://i.kym-cdn.com/entries/icons/original/000/036/684/bananacover.jpg)
+![alt text](https://i.kym-cdn.com/photos/images/original/002/036/803/4ad.jpg)
  Tester for the Fourth Take Home Exam of the CENG111 class
  ## How to run this badboy?????
  Just run zie tester.py and let it do its magik
