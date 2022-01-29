@@ -1,5 +1,5 @@
 # THE4Tester
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fwhere-banana&psig=AOvVaw0ywdlQi0w7CZR52Wfc5nNj&ust=1643570514887000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiesrfX1_UCFQAAAAAdAAAAABAD)
+![alt text](https://i.kym-cdn.com/entries/icons/original/000/036/684/bananacover.jpg)
  Tester for the Fourth Take Home Exam of the CENG111 class
  ## How to run this badboy?????
  Just run zie tester.py and let it do its magik
